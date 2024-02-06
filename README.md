@@ -1,4 +1,5 @@
 - Hi, I am a beginner github user,
-- My main programming language is Python,
+- My main programming language is Python and I'm still learning it day by day,
 - I like to create stuff that good for me and increase my speed in coding,
+- I started to learn Python in 2023,
 - Nice to meet you.

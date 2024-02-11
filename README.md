@@ -13,7 +13,7 @@ I started to learn how to code when I was 18, to be honest it was pretty late. L
 
 ### Recommendations
 
-When you learn something new, you need to test it out yourself for better information and get use to it. Just like me, I test a lot of things and find out what is good for me.
+When you learn something new, you need to test it out yourself for better information and get use to it. Just like me, I test a lot of things and find out what is good for me. I don't give a shiot about coding bro 
 
 For Python learners: you don't need to learn all of that. You just need to understand the basic and how to advance it.
   - [CSDojo_playlist](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)

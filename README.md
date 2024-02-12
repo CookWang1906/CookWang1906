@@ -20,3 +20,18 @@ For Python learners: you don't need to learn all of that. You just need to under
   - [BroCode](https://www.youtube.com/watch?v=XKHEtdqhLK8)
   - [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
   - [freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+
+<details>
+<p align="center">
+  <a href="https://github.com/CookWang1906">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CookWang1906&theme=transparent" />
+  </a>
+  <a href="https://github.com/CookWang1906">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CookWang1906&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/CookWang1906">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CookWang1906&theme=transparent" />
+  </a>
+</p>
+<table><tr><td valign="top" width="33%">

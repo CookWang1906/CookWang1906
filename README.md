@@ -19,6 +19,7 @@ For Python learners: you don't need to learn all of that. You just need to under
   - [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
   - [freeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CookWang1906&show_icons=true&theme=gotham" alt="CookWang1906" />
 
 <details>
 <p align="center">

@@ -1,7 +1,3 @@
-# Profile Data About Me
-
-![SIAL2O](https://github.com/CookWang1906/Info/assets/148769157/47c20d3a-3cf6-448b-8c1e-d14e3b7e2e56)
-
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/CookWang1906)
 
